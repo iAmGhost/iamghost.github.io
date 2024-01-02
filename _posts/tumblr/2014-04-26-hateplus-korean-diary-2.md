@@ -15,7 +15,7 @@ redirect_from:
 
 조사를 좀 해보았더니 헤이트 플러스는 구버전의 Ren'Py를 사용하고 있었다.
 
-![image](/tumblr_files/58009d41d73839bc9331a4c3c81ac12a/tumblr_inline_pk3ptpU6ce1sh674j_540.png)
+![image](/tumblr_files/tumblr_inline_pk3ptpU6ce1sh674j_540.png)
 
 헤이트 플러스는 아날로그:어 헤이트 스토리와 마찬가지로 대부분의 텍스트는 rpt 파일(원문과 번역문을 담은 파일)에 들어있고, 로그 파일은 별개의 스크립트를 사용하는 방식을 썼다.
 
