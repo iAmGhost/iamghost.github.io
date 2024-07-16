@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Works
 permalink: /projects/
 show_on_menu: true
 ---
@@ -32,3 +32,8 @@ show_on_menu: true
 # 2021
 
 * [gif2tgsticker](gif2tgsticker)
+
+# 2024
+
+* [KurumRebirth](https://github.com/iAmGhost/kurum_rebirth)
+* [PrBoom-Plus-3DS](https://github.com/iAmGhost/PrBoom-Plus-3DS)
