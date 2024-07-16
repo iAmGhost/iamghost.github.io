@@ -1,12 +1,11 @@
 ---
 layout: page
 title: BatchDPG Unofficial
+redirect_from:
+- /206
 ---
 
 ![image](./images/batchdpg_unofficial.png)
-
-
-https://github.com/iAmGhost/BatchDPG_Unofficial
 
 동영상 파일을 DPG(nDs-mPeG) 파일로 변환해주는 BatchDPG의 비공식 수정판입니다.
 
@@ -16,6 +15,10 @@ https://github.com/iAmGhost/BatchDPG_Unofficial
 
 사용법은 아래 블로그에 꽤 자세하게 나와있습니다.
 
-http://blog.naver.com/pandacpy/30027759870
+[http://blog.naver.com/pandacpy/30027759870](http://blog.naver.com/pandacpy/30027759870)
 
 조잡한 스크립트 문법을 사용해 레터박스 넣기나 필터링 등 이것저것이 가능했습니다.
+
+소스코드 및 다운로드:
+
+[https://github.com/iAmGhost/BatchDPG_Unofficial](https://github.com/iAmGhost/BatchDPG_Unofficial)
