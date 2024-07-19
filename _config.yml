@@ -30,7 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-
+  - jekyll-paginate
 
 collections:
   works:
@@ -42,6 +42,8 @@ header_pages:
 
 minima:
   date_format: "%Y-%m-%d %H:%M:%S"
+
+paginate: 10
 
 # Exclude from processing.
 # The following items will not be processed, by default.
